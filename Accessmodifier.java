@@ -3,7 +3,7 @@ class Accessmodifier{
 
     Scanner input = new Scanner(System.in);
 
-private int addition( int a,int b){
+private int addition(){
   
 
    System.out.println("Enter a value");
