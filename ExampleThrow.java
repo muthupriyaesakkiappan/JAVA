@@ -1,4 +1,3 @@
-import com.priya.Class1;
 public class ExampleThrow{
  public static void validate(int age){
   if (age<=18)
@@ -14,7 +13,7 @@ public static void main(String args[])
 {
  validate(13);
 System.out.println("Main Method");
-Class1 object1= new Class1();
-object1.method1();
+//Class1 object1= new Class1();
+//object1.method1();
 }
 }
